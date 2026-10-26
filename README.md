@@ -183,4 +183,5 @@ Please, make sure all steps are using **the same** python version and that you h
 
 
 W&B: https://wandb.ai/joshua-grandjean-western-governors-university/nyc_airbnb
+
 GitHub: https://github.com/jgrandjean03/Project-Build-an-ML-Pipeline-Starter
